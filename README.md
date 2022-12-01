@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Web-Design (project-8)](https://check-weather-prince.netlify.app/)
+## [Link to the Weather-App](https://check-weather-prince.netlify.app/)
 
 
 ![Completed Website](./Screenshot%20from%202022-12-01%2010-58-40.png)
